@@ -11,7 +11,7 @@ I am a passionate ML enthusiast who loves to explore the depths of technology. M
 
 ## 🔗 Let's Connect
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/tanisha-jain/)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/tanisha-jain-2b23b2239/)
 
 ## 📊 GitHub Stats
 
